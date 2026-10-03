@@ -1,0 +1,8 @@
+{
+  "title": "FlowProject",
+  "description": "Plan, track, and deliver projects with your team.",
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
